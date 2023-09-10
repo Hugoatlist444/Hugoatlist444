@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hugo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor](https://www.linkedin.com/in/hugo-winter-07b41a197/)/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Hugo! Passionate Cybersecurity Professional 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
