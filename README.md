@@ -1,9 +1,4 @@
-<h1>Hi, I'm Hugo! Passionate Cybersecurity Professional 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Azure / Cloud Projects </b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
