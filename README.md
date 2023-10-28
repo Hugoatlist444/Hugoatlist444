@@ -5,7 +5,7 @@
 - <b>Azure Vulnerability Management(AlgoExpert)</b>
   - [Azure Vulnerability Management](https://github.com/Hugoatlist444/Open-Vas-Lab#lab-outline-azure-vulnerability-management)
 - <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
-  - [Honeynet](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Honeynet](https://github.com/Hugoatlist444/AZURE-SOC) <b><i></b></i>
 - <b>PowerShell</b>
   - [Implementing the Website Blocker Script](https://github.com/Hugoatlist444/Bash-website-blocker)
   
