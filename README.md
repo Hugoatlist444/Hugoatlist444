@@ -14,7 +14,6 @@
 <h2>📺 Resources That Helped Me</h2>
 
 - [Bash For Beginners by Microsoft . ](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
-- [SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
 
