@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure Vulnerability Management(AlgoExpert)</b>
+- <b>Azure Vulnerability Management</b>
   - [Azure Vulnerability Management](https://github.com/Hugoatlist444/Open-Vas-Lab#lab-outline-azure-vulnerability-management)
 - <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
   - [Honeynet](https://github.com/Hugoatlist444/AZURE-SOC) <b><i></b></i>
